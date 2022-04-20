@@ -2,7 +2,7 @@
   {
     "Author": "Sel",
     "Name": "Hilda (Alpha)",
-    "AssemblyVersion": "0.0.1.1",
+    "AssemblyVersion": "0.0.11.0",
     "Punchline": "Hilda Teaches Combat!",
     "Description": "Displays recommendations via action icons. Great for learning a new job, returning after a long break, or just brushing up on your skills.",
     "InternalName": "Hilda",
@@ -10,9 +10,9 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "ApplicableVersion": "any",
-    "DownloadLinkInstall": "https://github.com/hildaware/Hilda/releases/download/0.0.1.1/0.0.1.1.zip",
-    "DownloadLinkTesting": "https://github.com/hildaware/Hilda/releases/download/0.0.1.1/0.0.1.1.zip",
-    "DownloadLinkUpdate": "https://github.com/hildaware/Hilda/releases/download/0.0.1.1/0.0.1.1.zip",
+    "DownloadLinkInstall": "https://github.com/Hildaware/Hilda/releases/download/0.0.11.0/0.0.11.0.zip",
+    "DownloadLinkTesting": "https://github.com/Hildaware/Hilda/releases/download/0.0.11.0/0.0.11.0.zip",
+    "DownloadLinkUpdate": "https://github.com/Hildaware/Hilda/releases/download/0.0.11.0/0.0.11.0.zip",
     "IconUrl": "https://hildaware.github.io/Hilda/media/icon.png"
   }
 ]
