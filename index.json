@@ -10,9 +10,9 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "ApplicableVersion": "any",
-    "DownloadLinkInstall": "https://github.com/Hildaware/Hilda/releases/download/0.0.14.0/0.0.15.0.zip",
-    "DownloadLinkTesting": "https://github.com/Hildaware/Hilda/releases/download/0.0.14.0/0.0.15.0.zip",
-    "DownloadLinkUpdate": "https://github.com/Hildaware/Hilda/releases/download/0.0.14.0/0.0.15.0.zip",
+    "DownloadLinkInstall": "https://github.com/Hildaware/Hilda/releases/download/0.0.15.0/0.0.15.0.zip",
+    "DownloadLinkTesting": "https://github.com/Hildaware/Hilda/releases/download/0.0.15.0/0.0.15.0.zip",
+    "DownloadLinkUpdate": "https://github.com/Hildaware/Hilda/releases/download/0.0.15.0/0.0.15.0.zip",
     "IconUrl": "https://hildaware.github.io/Hilda/media/icon.png"
   }
 ]
